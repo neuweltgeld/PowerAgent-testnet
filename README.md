@@ -78,3 +78,13 @@ http://my.dappnode/#/installer/%2Fipfs%2FQmP55bcEhtWtrbiueisuoZx4XN5AeLsuvtKU6CF
 
 🌐 WebSockets RPC:
 For sepolia geth, use ws://sepolia-geth.dappnode:8546
+
+
+## How to get keeperID
+https://sepolia.etherscan.io/address/0xc8E864f12c337Bdf6294a3DCeE0E565D2B1B4d90#readContract#F27
+![image](https://github.com/neuweltgeld/PowerAgent-testnet/assets/101174090/18eb8202-37a4-4066-9cda-564d5e610635)
+
+## How to see actually stake amount and worker, admin addresses
+https://sepolia.etherscan.io/address/0xc8E864f12c337Bdf6294a3DCeE0E565D2B1B4d90#readContract#F13
+![image](https://github.com/neuweltgeld/PowerAgent-testnet/assets/101174090/19517b78-3be3-444e-9f06-ad10f40574f0)
+
