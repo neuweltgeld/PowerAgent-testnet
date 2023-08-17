@@ -25,6 +25,9 @@ source /usr/src/dappnode/DNCORE/.dappnode_profile
 ```
 dappnode_status
 ```
+```
+dappnode_wireguard
+```
 
 ## Set up Wireguard from this link on your local machine to access dappnode page.
 ```
