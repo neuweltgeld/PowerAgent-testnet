@@ -77,7 +77,7 @@ http://my.dappnode/#/installer/%2Fipfs%2FQmT2vSKsKVTs7oFxYnnzb8cpWiKnMDvPLy1qnaL
 http://my.dappnode/#/installer/%2Fipfs%2FQmNy6zTZM9LfHomWJpNYFWX6kJqz9Jgm5eragJagMwc4jk
 
 🟨 PowerAgent DAppNode package:
-http://my.dappnode/#/installer/%2Fipfs%2FQmP55bcEhtWtrbiueisuoZx4XN5AeLsuvtKU6CFoTG52GF
+[http://my.dappnode/#/installer/%2Fipfs%2FQmP55bcEhtWtrbiueisuoZx4XN5AeLsuvtKU6CFoTG52GF](http://my.dappnode/installer/dnp/%2Fipfs%2FQmSdpLXzCdfekJWn7e4VJCsBVxMUZgdKLVJkzYDkP9VbC6)
 
 🌐 WebSockets RPC:
 For sepolia geth, use ws://sepolia-geth.dappnode:8546
