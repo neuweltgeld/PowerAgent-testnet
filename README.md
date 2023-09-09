@@ -66,7 +66,7 @@ npm i
 node jsongen.js %worker_private_key% %password%
 ```
 
-🟢 PowerAgent Contract address: 0xc8E864f12c337Bdf6294a3DCeE0E565D2B1B4d90
+🟢 PowerAgent Contract address: 0xf4583fc017D82c3462944A5d7E7aD380e5bfAD74
 
 🔴 Test CVP Contract address: 0xD5134EcD90EB63276aF2Fca897cC04D845AfD74f
 
