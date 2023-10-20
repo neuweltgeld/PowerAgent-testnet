@@ -19,13 +19,9 @@ sudo wget -O - https://installer.dappnode.io | sudo bash
 
 ## In a command line of your host machine, run
 
-```
+```console
 source /usr/src/dappnode/DNCORE/.dappnode_profile
-```
-```
 dappnode_status
-```
-```
 dappnode_wireguard
 ```
 
