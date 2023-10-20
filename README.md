@@ -66,10 +66,6 @@ npm i
 node jsongen.js %worker_private_key% %password%
 ```
 
-🟢 PowerAgent Contract address: 0xf4583fc017D82c3462944A5d7E7aD380e5bfAD74
-
-🔴 Test CVP Contract address: 0xD5134EcD90EB63276aF2Fca897cC04D845AfD74f
-
 🟪 Prysm Sepolia DAppNode package:
 http://my.dappnode/#/installer/%2Fipfs%2FQmT2vSKsKVTs7oFxYnnzb8cpWiKnMDvPLy1qnaLWfEfVkD
 
@@ -77,10 +73,19 @@ http://my.dappnode/#/installer/%2Fipfs%2FQmT2vSKsKVTs7oFxYnnzb8cpWiKnMDvPLy1qnaL
 http://my.dappnode/#/installer/%2Fipfs%2FQmNy6zTZM9LfHomWJpNYFWX6kJqz9Jgm5eragJagMwc4jk
 
 🟨 PowerAgent DAppNode package:
-[http://my.dappnode/#/installer/%2Fipfs%2FQmP55bcEhtWtrbiueisuoZx4XN5AeLsuvtKU6CFoTG52GF](http://my.dappnode/installer/dnp/%2Fipfs%2FQmSdpLXzCdfekJWn7e4VJCsBVxMUZgdKLVJkzYDkP9VbC6)
+http://my.dappnode/installer/dnp/%2Fipfs%2FQmULaiokk8QZXdBNq4VbgsZnSEEeczG1qrLgZrbnDp6UHp
 
 🌐 WebSockets RPC:
 For sepolia geth, use ws://sepolia-geth.dappnode:8546
+
+1. New tCVP contract: https://sepolia.etherscan.io/address/0x34221a0df3bada492d540ec2b362401195106e60
+
+2. New tCVP faucet: https://sepolia.etherscan.io/address/0xDa2b8ca09080876e716ef5326107A68F603f95B2
+
+3. New Agent: https://sepolia.etherscan.io/address/0xbde2aed54521000dc033b67fb522034e0f93a7e5
+
+4. 🖥 PowerAgent UI: https://app.powerpool.finance/#/sepolia/ppv2/agents-contracts
+      
 
 
 ## How to get keeperID
