@@ -69,7 +69,7 @@ node jsongen.js %worker_private_key% %password%
 /ipfs/QmNy6zTZM9LfHomWJpNYFWX6kJqz9Jgm5eragJagMwc4jk
 
 🟨 PowerAgent DAppNode package:
-/ipfs/QmULaiokk8QZXdBNq4VbgsZnSEEeczG1qrLgZrbnDp6UHp
+[/ipfs/QmULaiokk8QZXdBNq4VbgsZnSEEeczG1qrLgZrbnDp6UHp](http://my.dappnode/installer/dnp/%2Fipfs%2FQmULaiokk8QZXdBNq4VbgsZnSEEeczG1qrLgZrbnDp6UHp)
 
 🌐 WebSockets RPC:
 For sepolia geth, use ws://sepolia-geth.dappnode:8546
